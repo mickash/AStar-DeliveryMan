@@ -1,0 +1,14 @@
+Package: DeliveryManEval
+Type: Package
+Title: Evaluates the Delivery Man project
+Version: 1.0.1
+Author: Michael Ashcroft
+Maintainer: The package maintainer <michael.ashcroft@it.uu.se>
+Description: Evaluates the Delivery Man project.
+   - Par performance function
+   - Evaluation function
+License: What license is it under?
+Depends: DeliveryMan
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
